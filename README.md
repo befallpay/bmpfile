@@ -1,0 +1,1 @@
+When my development work involves display driver, GUI and printer, I often need to judge whether the content of a certain area is correct. At this point, the content of the area will be saved as a bitmap file and viewed with the "drawing" tool that comes with windows. For convenience, I made a simple bitmap file generation code and shared it with you.
